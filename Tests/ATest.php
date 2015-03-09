@@ -6,4 +6,9 @@ class ATest extends PHPUnit_Framework_TestCase
     {
         $this->assertEquals('a', 'a');
     }
+
+    public function testB()
+    {
+        $this->assertEquals('a', 'b');
+    }
 }
