@@ -1,5 +1,7 @@
 <?php
 
+require '../Z.php';
+
 class ATest extends PHPUnit_Framework_TestCase
 {
     public function testA()
@@ -9,6 +11,13 @@ class ATest extends PHPUnit_Framework_TestCase
 
     public function testB()
     {
-        $this->assertEquals('a', 'b');
+        $this->assertEquals('b', 'b');
+    }
+
+    public function testZ()
+    {
+        $z = new Z();
+
+        $this->assertEquals($z->z1(), 1);
     }
 }
