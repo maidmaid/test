@@ -1,6 +1,6 @@
 <?php
 
-require '../Z.php';
+require __DIR__.'/../Z.php';
 
 class ATest extends PHPUnit_Framework_TestCase
 {
