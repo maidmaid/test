@@ -19,5 +19,6 @@ class ATest extends PHPUnit_Framework_TestCase
         $z = new Z();
 
         $this->assertEquals($z->z1(), 1);
+        $this->assertEquals($z->z2(), 2);
     }
 }
