@@ -136,3 +136,10 @@ In this case, add ``requirements={"id" = "\d+"}`` would be better.
 > [Use lowercased snake_case for directory and template names.](http://symfony.com/doc/current/best_practices/templates.html#template-locations)
 
 While with current generator : ``AppBundle:Category:index.html.twig``
+
+12)
+
+> [Add the app_ prefix to your custom form field types to avoid collisions.](http://symfony.com/doc/current/best_practices/forms.html#custom-form-field-types)
+
+While with current generator : ``appbundle_category``
+
