@@ -113,7 +113,7 @@ Le standard de développement de Digital Link pour écrire du HTML respecte celu
 
 Exemple sommaire d'écriture d'une feuille CSS respectant ces standards :
 
-```
+```css
 /* Good CSS */
 .selector,
 .selector-secondary,
