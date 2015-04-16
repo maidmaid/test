@@ -96,7 +96,7 @@ Exemple sommaire d'écriture d'un document HTML respectant ces standards :
 <!DOCTYPE html>
 <html lang="en-us">
   <head>
-	  <meta charset="UTF-8">
+    <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=Edge">
     <title>Page title</title>
   </head>
