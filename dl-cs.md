@@ -137,7 +137,7 @@ Les développements Symfony suivent les [best practices](http://symfony.com/doc/
 
 > ``namespace Dl\[Project]\AppBundle;``
 
-* ``[Project`` est le nom du projet en cours et peut être abrégé avec des initiales.
+* ``[Project]`` est le nom du projet en cours et peut être abrégé avec des initiales.
 
 Exemple:
 
@@ -159,7 +159,7 @@ Le standard de développement de Digital Link pour écrire des templates Twig re
 
 ``[catégorie]`` est optionnel.
 
-``[code langue]`` est écrit en majuscule.
+``[code langue]`` est écrit en minuscule.
 
 ``[catégorie]`` et ``[nom de menu]`` sont écrit en français, même dans un code langue différent.
  
@@ -177,7 +177,7 @@ Exemple:
  
 ``[page(s) assignée(s)]``  reprend la convention décrit dans le type de menu.
 
-``[code langue]`` est écrit en majuscule.
+``[code langue]`` est écrit en minuscule.
 
 ``[nom de module]`` est écrit en français, même dans un code langue différent.
  
