@@ -191,7 +191,7 @@ Exemple:
  
 #### Méthode task dans le controller
 
-> **Signature de méthode** :  ``public function [nom de la méthode][Task]()``
+> **Signature de méthode** :  ``public function [nom de la méthode]Task()``
  
 ``[nom de la méthode]`` est écrit en anglais.
  
