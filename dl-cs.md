@@ -203,6 +203,7 @@ Exemple:
 
 ### Workflow
 
+Le workflow utilisé est [feature branch workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow).
 La branche master doit toujours restée stable. Si un développement présente plusieurs étapes potentiellement instables, une branche doit être créée, puis mergée dans master (après un éventuel rebase sqash).
 
 Chaque commit est le plus atomique possible: un par bug ou feature, voire un par sous-élément de bug ou feature.
@@ -213,7 +214,16 @@ Chaque commit est le plus atomique possible: un par bug ou feature, voire un par
 
 Exemple :
 
-> ``#PdS15 fix slider``
+> ``#PdS15 Fix slider``
+
+Le message du commit est :
+
+- écrit en EN,
+- fixé à 50 charactères,
+- capitalisé (première lettre en majuscule),
+- écrit à la form impérative.
+
+Article détaillant ces consignes : [http://chris.beams.io/posts/git-commit/](http://chris.beams.io/posts/git-commit/)
  
 ### Tag
 
