@@ -204,6 +204,9 @@ Exemple:
 ### Workflow
 
 Le workflow utilisé est [feature branch workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow).
+
+![feature branch workflow](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/feature-branch-workflow/01.svg)
+
 La branche master doit toujours restée stable. Si un développement présente plusieurs étapes potentiellement instables, une branche doit être créée, puis mergée dans master (après un éventuel rebase sqash).
 
 Chaque commit est le plus atomique possible: un par bug ou feature, voire un par sous-élément de bug ou feature.
