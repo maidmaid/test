@@ -224,3 +224,7 @@ Utilisation du [Semantic Versioning](http://semver.org/).
 Exemple :
 
 > ``v1.7.1``
+
+Un tag est appliqué à chaque version patch de l'application.
+
+Un fichier CHANGELOG.md à la racine du projet est présent et contient un résumé de toutes les versions avec leurs changements. Voilà un exemple à suivre de fichier [CHANGELOG.md](https://raw.githubusercontent.com/symfony/symfony/2.7/CHANGELOG-2.2.md).
