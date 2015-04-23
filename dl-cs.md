@@ -149,7 +149,7 @@ Le standard de développement de Digital Link pour écrire des templates Twig re
 
 ## Joomla
 
-### Backend
+### Admin
 
 #### Menu
 
