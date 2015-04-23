@@ -203,7 +203,7 @@ Exemple:
 
 ### Workflow
 
-Le workflow utilisé est [feature branch workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow).
+Le workflow utilisé est le [feature branch workflow](https://www.atlassian.com/git/tutorials/comparing-workflows/feature-branch-workflow).
 
 ![feature branch workflow](https://www.atlassian.com/git/images/tutorials/collaborating/comparing-workflows/feature-branch-workflow/01.svg)
 
@@ -224,7 +224,7 @@ Le message du commit est :
 - écrit en EN,
 - fixé à 50 charactères,
 - capitalisé (première lettre en majuscule),
-- écrit à la form impérative.
+- écrit à la form impérative (ex: _fix, update, remove, add, refactore, rename, move, improve, cleanup, import, revert, merge, use, check, reduce, ..._).
 
 Article détaillant ces consignes : [http://chris.beams.io/posts/git-commit/](http://chris.beams.io/posts/git-commit/)
  
