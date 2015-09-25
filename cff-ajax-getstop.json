@@ -1042,6 +1042,96 @@
         },
         "connection": "102694",
         "pageref": "page_27"
+      },
+      {
+        "startedDateTime": "2015-09-25T11:14:23.287Z",
+        "time": 0.6329999996523838,
+        "request": {
+          "method": "GET",
+          "url": "http://fahrplan.sbb.ch/img/one/icon_arrow_left_hover.png",
+          "httpVersion": "unknown",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "image/webp,*/*;q=0.8"
+            },
+            {
+              "name": "Referer",
+              "value": "http://fahrplan.sbb.ch/bin/query.exe/fn?"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "unknown",
+          "headers": [
+            {
+              "name": "Date",
+              "value": "Mon, 14 Sep 2015 20:36:22 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Wed, 04 Mar 2015 11:24:44 GMT"
+            },
+            {
+              "name": "Server",
+              "value": "Apache"
+            },
+            {
+              "name": "ETag",
+              "value": "\"2001da-144-51074b2b4d700\""
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding,User-Agent"
+            },
+            {
+              "name": "Content-Type",
+              "value": "image/png"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Content-Length",
+              "value": "340"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 324,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": 0,
+          "_transferSize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 0.152000000525732,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0.20299999960116097,
+          "receive": 0.27799999952549087,
+          "ssl": -1
+        },
+        "pageref": "page_27"
       }
     ]
   }
