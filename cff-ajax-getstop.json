@@ -7,275 +7,268 @@
     },
     "pages": [
       {
-        "startedDateTime": "2015-09-25T10:56:10.627Z",
-        "id": "page_25",
+        "startedDateTime": "2015-09-25T11:12:44.192Z",
+        "id": "page_27",
         "title": "http://fahrplan.sbb.ch/bin/query.exe/fn?",
         "pageTimings": {
-          "onContentLoad": 730.9380000006058,
-          "onLoad": 1052.465000000666
+          "onContentLoad": 913.2399999980407,
+          "onLoad": 1111.669999998412
         }
       }
     ],
     "entries": [
       {
-        "startedDateTime": "2015-09-25T11:07:56.068Z",
-        "time": 196.90799999807496,
+        "startedDateTime": "2015-09-25T11:12:46.423Z",
+        "time": 0,
         "request": {
           "method": "GET",
-          "url": "http://hm.webtrends.com/dcsi1amqxvz5bdzt2fpkiajsg_9l5r/dcs.gif?&dcsdat=1443179276066&dcssip=www.sbb.ch&dcsuri=/bin/query.exe/fn&WT.tz=2&WT.bh=12&WT.ul=en-US&WT.cd=24&WT.sr=1920x1080&WT.jo=Yes&WT.ti=CFF%253A%2520Horaire%2520en%2520ligne.&WT.js=Yes&WT.jv=1.5&WT.ct=unknown&WT.bs=1920x505&WT.fv=18.0&WT.slv=Not%2520enabled&WT.le=windows-1252&WT.tv=10.2.10&WT.dl=125&WT.ssl=0&WT.es=fahrplan.sbb.ch%252Fbin%252Fquery.exe%252Ffn&WT.cg_n=fahrplan&WT.cg_s=online-fahrplan&WT.vt_f_tlh=1443179202&WT.vtvs=1443178324003&WT.vtid=fc6cf8b6-163a-4542-bd06-b36cd65f35ce&WT.co_f=fc6cf8b6-163a-4542-bd06-b36cd65f35ce&WT.hm_x=190&WT.hm_y=260&WT.hm_w=1920&WT.hm_h=505&WT.hm_tv=10.2.3&wt_contentlanguage=fr&wt_channel=Desktop&WT.dep=wt_contentlanguage%253Bwt_channel",
-          "httpVersion": "HTTP/1.1",
+          "url": "http://fahrplan.sbb.ch/img/one/icon_arrow_right_hover.png",
+          "httpVersion": "unknown",
           "headers": [
-            {
-              "name": "Accept",
-              "value": "image/webp,*/*;q=0.8"
-            },
-            {
-              "name": "Connection",
-              "value": "keep-alive"
-            },
-            {
-              "name": "Accept-Encoding",
-              "value": "gzip, deflate, sdch"
-            },
-            {
-              "name": "Referer",
-              "value": "http://fahrplan.sbb.ch/bin/query.exe/fn?"
-            },
-            {
-              "name": "Host",
-              "value": "hm.webtrends.com"
-            },
-            {
-              "name": "Accept-Language",
-              "value": "fr-CH,fr;q=0.8,en;q=0.6"
-            },
             {
               "name": "User-Agent",
               "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36"
             }
           ],
-          "queryString": [
-            {
-              "name": "",
-              "value": ""
-            },
-            {
-              "name": "dcsdat",
-              "value": "1443179276066"
-            },
-            {
-              "name": "dcssip",
-              "value": "www.sbb.ch"
-            },
-            {
-              "name": "dcsuri",
-              "value": "/bin/query.exe/fn"
-            },
-            {
-              "name": "WT.tz",
-              "value": "2"
-            },
-            {
-              "name": "WT.bh",
-              "value": "12"
-            },
-            {
-              "name": "WT.ul",
-              "value": "en-US"
-            },
-            {
-              "name": "WT.cd",
-              "value": "24"
-            },
-            {
-              "name": "WT.sr",
-              "value": "1920x1080"
-            },
-            {
-              "name": "WT.jo",
-              "value": "Yes"
-            },
-            {
-              "name": "WT.ti",
-              "value": "CFF%253A%2520Horaire%2520en%2520ligne."
-            },
-            {
-              "name": "WT.js",
-              "value": "Yes"
-            },
-            {
-              "name": "WT.jv",
-              "value": "1.5"
-            },
-            {
-              "name": "WT.ct",
-              "value": "unknown"
-            },
-            {
-              "name": "WT.bs",
-              "value": "1920x505"
-            },
-            {
-              "name": "WT.fv",
-              "value": "18.0"
-            },
-            {
-              "name": "WT.slv",
-              "value": "Not%2520enabled"
-            },
-            {
-              "name": "WT.le",
-              "value": "windows-1252"
-            },
-            {
-              "name": "WT.tv",
-              "value": "10.2.10"
-            },
-            {
-              "name": "WT.dl",
-              "value": "125"
-            },
-            {
-              "name": "WT.ssl",
-              "value": "0"
-            },
-            {
-              "name": "WT.es",
-              "value": "fahrplan.sbb.ch%252Fbin%252Fquery.exe%252Ffn"
-            },
-            {
-              "name": "WT.cg_n",
-              "value": "fahrplan"
-            },
-            {
-              "name": "WT.cg_s",
-              "value": "online-fahrplan"
-            },
-            {
-              "name": "WT.vt_f_tlh",
-              "value": "1443179202"
-            },
-            {
-              "name": "WT.vtvs",
-              "value": "1443178324003"
-            },
-            {
-              "name": "WT.vtid",
-              "value": "fc6cf8b6-163a-4542-bd06-b36cd65f35ce"
-            },
-            {
-              "name": "WT.co_f",
-              "value": "fc6cf8b6-163a-4542-bd06-b36cd65f35ce"
-            },
-            {
-              "name": "WT.hm_x",
-              "value": "190"
-            },
-            {
-              "name": "WT.hm_y",
-              "value": "260"
-            },
-            {
-              "name": "WT.hm_w",
-              "value": "1920"
-            },
-            {
-              "name": "WT.hm_h",
-              "value": "505"
-            },
-            {
-              "name": "WT.hm_tv",
-              "value": "10.2.3"
-            },
-            {
-              "name": "wt_contentlanguage",
-              "value": "fr"
-            },
-            {
-              "name": "wt_channel",
-              "value": "Desktop"
-            },
-            {
-              "name": "WT.dep",
-              "value": "wt_contentlanguage%253Bwt_channel"
-            }
-          ],
+          "queryString": [],
           "cookies": [],
-          "headersSize": 1067,
+          "headersSize": -1,
           "bodySize": 0
         },
         "response": {
           "status": 200,
           "statusText": "OK",
-          "httpVersion": "HTTP/1.1",
+          "httpVersion": "unknown",
           "headers": [
             {
-              "name": "Pragma",
-              "value": "no-cache"
+              "name": "Date",
+              "value": "Thu, 24 Sep 2015 18:18:12 GMT"
             },
             {
-              "name": "Date",
-              "value": "Fri, 25 Sep 2015 11:07:56 GMT"
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Wed, 04 Mar 2015 11:24:44 GMT"
             },
             {
               "name": "Server",
-              "value": "Microsoft-IIS/7.5"
+              "value": "Apache"
             },
             {
-              "name": "P3P",
-              "value": "CP=\"NOI DSP COR NID ADM DEV PSA OUR IND UNI PUR COM NAV INT STA\""
+              "name": "ETag",
+              "value": "\"28664-146-51074b2b4d700\""
             },
             {
-              "name": "Cache-Control",
-              "value": "no-cache"
+              "name": "Vary",
+              "value": "Accept-Encoding,User-Agent"
             },
             {
-              "name": "Connection",
-              "value": "close"
+              "name": "Content-Type",
+              "value": "image/png"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Content-Length",
+              "value": "342"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 326,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": 0,
+          "_transferSize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": -1,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_27"
+      },
+      {
+        "startedDateTime": "2015-09-25T11:12:50.847Z",
+        "time": 0,
+        "request": {
+          "method": "GET",
+          "url": "http://fahrplan.sbb.ch/img/one/icon_oeffnen_hover.png",
+          "httpVersion": "unknown",
+          "headers": [
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "unknown",
+          "headers": [
+            {
+              "name": "Date",
+              "value": "Thu, 24 Sep 2015 18:37:37 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Wed, 04 Mar 2015 11:24:44 GMT"
+            },
+            {
+              "name": "Server",
+              "value": "Apache"
+            },
+            {
+              "name": "ETag",
+              "value": "\"28677-147-51074b2b4d700\""
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding,User-Agent"
+            },
+            {
+              "name": "Content-Type",
+              "value": "image/png"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Content-Length",
+              "value": "339"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 327,
+            "mimeType": "image/png"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": 0,
+          "_transferSize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": -1,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_27"
+      },
+      {
+        "startedDateTime": "2015-09-25T11:12:51.424Z",
+        "time": 0,
+        "request": {
+          "method": "GET",
+          "url": "http://fahrplan.sbb.ch/img/icons/closebutton_black.gif",
+          "httpVersion": "unknown",
+          "headers": [
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "unknown",
+          "headers": [
+            {
+              "name": "Date",
+              "value": "Thu, 24 Sep 2015 18:34:51 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Wed, 04 Mar 2015 11:24:27 GMT"
+            },
+            {
+              "name": "Server",
+              "value": "Apache"
+            },
+            {
+              "name": "ETag",
+              "value": "\"282c0-46-51074b1b170c0\""
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding,User-Agent"
             },
             {
               "name": "Content-Type",
               "value": "image/gif"
             },
             {
-              "name": "Content-Length",
-              "value": "67"
+              "name": "Accept-Ranges",
+              "value": "bytes"
             },
             {
-              "name": "Expires",
-              "value": "-1"
+              "name": "Content-Length",
+              "value": "86"
             }
           ],
           "cookies": [],
           "content": {
-            "size": 67,
-            "mimeType": "image/gif",
-            "compression": 0
+            "size": 70,
+            "mimeType": "image/gif"
           },
           "redirectURL": "",
-          "headersSize": 274,
-          "bodySize": 67,
-          "_transferSize": 341
+          "headersSize": -1,
+          "bodySize": 0,
+          "_transferSize": 0
         },
         "cache": {},
         "timings": {
-          "blocked": 0.7259999983944,
-          "dns": 151.7569999996336,
-          "connect": 21.174000001338015,
-          "send": 0.05400000009097994,
-          "wait": 22.554999999557026,
-          "receive": 0.6419999990609426,
+          "blocked": -1,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 0,
           "ssl": -1
         },
-        "connection": "100199",
-        "pageref": "page_25"
+        "pageref": "page_27"
       },
       {
-        "startedDateTime": "2015-09-25T11:07:56.226Z",
-        "time": 157.54500000184635,
+        "startedDateTime": "2015-09-25T11:12:51.439Z",
+        "time": 77.45300000169664,
         "request": {
           "method": "GET",
-          "url": "http://hm.webtrends.com/dcsi1amqxvz5bdzt2fpkiajsg_9l5r/dcs.gif?&dcsdat=1443179276225&dcssip=www.sbb.ch&dcsuri=/bin/query.exe/fn&WT.tz=2&WT.bh=12&WT.ul=en-US&WT.cd=24&WT.sr=1920x1080&WT.jo=Yes&WT.ti=CFF%253A%2520Horaire%2520en%2520ligne.&WT.js=Yes&WT.jv=1.5&WT.ct=unknown&WT.bs=1920x505&WT.fv=18.0&WT.slv=Not%2520enabled&WT.le=windows-1252&WT.tv=10.2.10&WT.dl=125&WT.ssl=0&WT.es=fahrplan.sbb.ch%252Fbin%252Fquery.exe%252Ffn&WT.cg_n=fahrplan&WT.cg_s=online-fahrplan&WT.vt_f_tlh=1443179276&WT.vtvs=1443178324003&WT.vtid=fc6cf8b6-163a-4542-bd06-b36cd65f35ce&WT.co_f=fc6cf8b6-163a-4542-bd06-b36cd65f35ce&WT.hm_x=190&WT.hm_y=260&WT.hm_w=1920&WT.hm_h=505&WT.hm_tv=10.2.3&wt_contentlanguage=fr&wt_channel=Desktop&WT.dep=wt_contentlanguage%253Bwt_channel",
+          "url": "http://hm.webtrends.com/dcsi1amqxvz5bdzt2fpkiajsg_9l5r/dcs.gif?&dcsdat=1443179571438&dcssip=www.sbb.ch&dcsuri=/bin/query.exe/fn&WT.tz=2&WT.bh=13&WT.ul=en-US&WT.cd=24&WT.sr=1920x1080&WT.jo=Yes&WT.ti=CFF%253A%2520Horaire%2520en%2520ligne.&WT.js=Yes&WT.jv=1.5&WT.ct=unknown&WT.bs=1920x505&WT.fv=18.0&WT.slv=Not%2520enabled&WT.le=windows-1252&WT.tv=10.2.10&WT.dl=125&WT.ssl=0&WT.es=fahrplan.sbb.ch%252Fbin%252Fquery.exe%252Ffn&WT.cg_n=fahrplan&WT.cg_s=online-fahrplan&WT.vt_f_tlh=1443179565&WT.vtvs=1443178324003&WT.vtid=fc6cf8b6-163a-4542-bd06-b36cd65f35ce&WT.co_f=fc6cf8b6-163a-4542-bd06-b36cd65f35ce&WT.hm_x=171&WT.hm_y=252&WT.hm_w=1920&WT.hm_h=505&WT.hm_tv=10.2.3&wt_contentlanguage=fr&wt_channel=Desktop&WT.dep=wt_contentlanguage%253Bwt_channel",
           "httpVersion": "HTTP/1.1",
           "headers": [
             {
@@ -314,7 +307,7 @@
             },
             {
               "name": "dcsdat",
-              "value": "1443179276225"
+              "value": "1443179571438"
             },
             {
               "name": "dcssip",
@@ -330,7 +323,7 @@
             },
             {
               "name": "WT.bh",
-              "value": "12"
+              "value": "13"
             },
             {
               "name": "WT.ul",
@@ -406,7 +399,7 @@
             },
             {
               "name": "WT.vt_f_tlh",
-              "value": "1443179276"
+              "value": "1443179565"
             },
             {
               "name": "WT.vtvs",
@@ -422,11 +415,11 @@
             },
             {
               "name": "WT.hm_x",
-              "value": "190"
+              "value": "171"
             },
             {
               "name": "WT.hm_y",
-              "value": "260"
+              "value": "252"
             },
             {
               "name": "WT.hm_w",
@@ -468,7 +461,7 @@
             },
             {
               "name": "Date",
-              "value": "Fri, 25 Sep 2015 11:07:55 GMT"
+              "value": "Fri, 25 Sep 2015 11:12:51 GMT"
             },
             {
               "name": "Server",
@@ -516,20 +509,20 @@
         },
         "cache": {},
         "timings": {
-          "blocked": 0.944999999774154,
-          "dns": 0.011000000085914952,
-          "connect": 20.40299999862323,
-          "send": 0.056000000768200664,
-          "wait": 135.69900000220548,
-          "receive": 0.4310000003893606,
+          "blocked": 0.427999999374151,
+          "dns": 0.009999999747378974,
+          "connect": 22.98800000062327,
+          "send": 0.048999998398400635,
+          "wait": 53.577000002405796,
+          "receive": 0.40100000114763645,
           "ssl": -1
         },
-        "connection": "100204",
-        "pageref": "page_25"
+        "connection": "102675",
+        "pageref": "page_27"
       },
       {
-        "startedDateTime": "2015-09-25T11:07:57.238Z",
-        "time": 128.30200000098557,
+        "startedDateTime": "2015-09-25T11:12:52.808Z",
+        "time": 559.6109999969485,
         "request": {
           "method": "GET",
           "url": "http://fahrplan.sbb.ch/bin/ajax-getstop.exe/fny?start=1&REQ0JourneyStopsS0A=1&getstop=1&noSession=yes&REQ0JourneyStopsB=10&REQ0JourneyStopsS0G=Monthey%3F&js=true&",
@@ -561,7 +554,7 @@
             },
             {
               "name": "Cookie",
-              "value": "dtm_channels=other_referrer; sbbHistory=Location1%3DA%3D1%40O%3DSt-Maurice%40X%3D7002048%40Y%3D46216366%40U%3D85%40L%3D008501403%40B%3D1%40p%3D1442839039%40%26Location2%3DA%3D1%40O%3DMonthey%40X%3D6955223%40Y%3D46255649%40U%3D85%40L%3D008501421%40B%3D1%40p%3D1442839039%40%26Location3%3DA%3D1%40O%3DSierre%2FSiders%40X%3D7532825%40Y%3D46292118%40U%3D85%40L%3D008501509%40B%3D1%40p%3D1442839039%40%26Location4%3DA%3D1%40O%3DGen%E8ve%40X%3D6142455%40Y%3D46210199%40U%3D85%40L%3D008501008%40B%3D1%40p%3D1441701318%40%26Location5%3DA%3D1%40O%3DGen%E8ve-A%E9roport%40X%3D6111981%40Y%3D46232528%40U%3D85%40L%3D008501026%40B%3D1%40p%3D1439454808%40%26Location6%3DA%3D1%40O%3DLausanne%40X%3D6629095%40Y%3D46516776%40U%3D85%40L%3D008501120%40B%3D1%40p%3D1439454808%40%26Location7%3DA%3D1%40O%3DGeneva%20Airport%40X%3D6111981%40Y%3D46232528%40U%3D85%40L%3D008501026%40B%3D1%40p%3D1438160545%40%26Location8%3DA%3D1%40O%3DMartigny%40X%3D7079122%40Y%3D46105826%40U%3D85%40L%3D008501500%40B%3D1%40p%3D1436977849%40%26; sbbMYHAFASdbStatusParameter=dbstatus%3Dyellow%26; sbbREQcustomerProfileFlag=customerProfileFlag%3D0%26; sbbMYHAFASprofileContextS=profileContextS%3DunknownContext%26; WT_FPC=id=fc6cf8b6-163a-4542-bd06-b36cd65f35ce:lv=1443175676224:ss=1443174724003"
+              "value": "dtm_channels=other_referrer; sbbHistory=Location1%3DA%3D1%40O%3DSt-Maurice%40X%3D7002048%40Y%3D46216366%40U%3D85%40L%3D008501403%40B%3D1%40p%3D1442839039%40%26Location2%3DA%3D1%40O%3DMonthey%40X%3D6955223%40Y%3D46255649%40U%3D85%40L%3D008501421%40B%3D1%40p%3D1442839039%40%26Location3%3DA%3D1%40O%3DSierre%2FSiders%40X%3D7532825%40Y%3D46292118%40U%3D85%40L%3D008501509%40B%3D1%40p%3D1442839039%40%26Location4%3DA%3D1%40O%3DGen%E8ve%40X%3D6142455%40Y%3D46210199%40U%3D85%40L%3D008501008%40B%3D1%40p%3D1441701318%40%26Location5%3DA%3D1%40O%3DGen%E8ve-A%E9roport%40X%3D6111981%40Y%3D46232528%40U%3D85%40L%3D008501026%40B%3D1%40p%3D1439454808%40%26Location6%3DA%3D1%40O%3DLausanne%40X%3D6629095%40Y%3D46516776%40U%3D85%40L%3D008501120%40B%3D1%40p%3D1439454808%40%26Location7%3DA%3D1%40O%3DGeneva%20Airport%40X%3D6111981%40Y%3D46232528%40U%3D85%40L%3D008501026%40B%3D1%40p%3D1438160545%40%26Location8%3DA%3D1%40O%3DMartigny%40X%3D7079122%40Y%3D46105826%40U%3D85%40L%3D008501500%40B%3D1%40p%3D1436977849%40%26; sbbMYHAFASdbStatusParameter=dbstatus%3Dyellow%26; sbbREQcustomerProfileFlag=customerProfileFlag%3D0%26; sbbMYHAFASprofileContextS=profileContextS%3DunknownContext%26; WT_FPC=id=fc6cf8b6-163a-4542-bd06-b36cd65f35ce:lv=1443175971437:ss=1443174724003"
             },
             {
               "name": "Connection",
@@ -640,7 +633,7 @@
             },
             {
               "name": "WT_FPC",
-              "value": "id=fc6cf8b6-163a-4542-bd06-b36cd65f35ce:lv=1443175676224:ss=1443174724003",
+              "value": "id=fc6cf8b6-163a-4542-bd06-b36cd65f35ce:lv=1443175971437:ss=1443174724003",
               "expires": null,
               "httpOnly": false,
               "secure": false
@@ -656,7 +649,7 @@
           "headers": [
             {
               "name": "Date",
-              "value": "Fri, 25 Sep 2015 11:07:57 GMT"
+              "value": "Fri, 25 Sep 2015 11:12:52 GMT"
             },
             {
               "name": "Content-Encoding",
@@ -680,7 +673,7 @@
             },
             {
               "name": "Keep-Alive",
-              "value": "timeout=8, max=100"
+              "value": "timeout=8, max=86"
             },
             {
               "name": "Content-Length",
@@ -694,22 +687,361 @@
             "compression": 1987
           },
           "redirectURL": "",
-          "headersSize": 253,
+          "headersSize": 252,
           "bodySize": 600,
-          "_transferSize": 853
+          "_transferSize": 852
         },
         "cache": {},
         "timings": {
-          "blocked": 2.03900000269641,
-          "dns": 0.12199999764562008,
-          "connect": 34.05600000041887,
-          "send": 0.1889999984996038,
-          "wait": 90.84200000143049,
-          "receive": 1.0540000002945789,
+          "blocked": 2.26599999950849,
+          "dns": -1,
+          "connect": -1,
+          "send": 0.3969999997934801,
+          "wait": 556.392999998934,
+          "receive": 0.5549999987125602,
           "ssl": -1
         },
-        "connection": "100211",
-        "pageref": "page_25"
+        "connection": "101722",
+        "pageref": "page_27"
+      },
+      {
+        "startedDateTime": "2015-09-25T11:12:52.808Z",
+        "time": 0,
+        "request": {
+          "method": "GET",
+          "url": "http://fahrplan.sbb.ch/img/wait_ani.gif",
+          "httpVersion": "unknown",
+          "headers": [
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36"
+            }
+          ],
+          "queryString": [],
+          "cookies": [],
+          "headersSize": -1,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "unknown",
+          "headers": [
+            {
+              "name": "Date",
+              "value": "Thu, 24 Sep 2015 18:34:55 GMT"
+            },
+            {
+              "name": "Content-Encoding",
+              "value": "gzip"
+            },
+            {
+              "name": "Last-Modified",
+              "value": "Thu, 20 Aug 2015 11:01:40 GMT"
+            },
+            {
+              "name": "Server",
+              "value": "Apache"
+            },
+            {
+              "name": "ETag",
+              "value": "\"2871b-b12-51dbc13650d00\""
+            },
+            {
+              "name": "Vary",
+              "value": "Accept-Encoding,User-Agent"
+            },
+            {
+              "name": "Content-Type",
+              "value": "image/gif"
+            },
+            {
+              "name": "Accept-Ranges",
+              "value": "bytes"
+            },
+            {
+              "name": "Content-Length",
+              "value": "2793"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 2834,
+            "mimeType": "image/gif"
+          },
+          "redirectURL": "",
+          "headersSize": -1,
+          "bodySize": 0,
+          "_transferSize": 0
+        },
+        "cache": {},
+        "timings": {
+          "blocked": -1,
+          "dns": -1,
+          "connect": -1,
+          "send": 0,
+          "wait": 0,
+          "receive": 0,
+          "ssl": -1
+        },
+        "pageref": "page_27"
+      },
+      {
+        "startedDateTime": "2015-09-25T11:12:54.275Z",
+        "time": 46.648999999888474,
+        "request": {
+          "method": "GET",
+          "url": "http://hm.webtrends.com/dcsi1amqxvz5bdzt2fpkiajsg_9l5r/dcs.gif?&dcsdat=1443179574269&dcssip=www.sbb.ch&dcsuri=/bin/query.exe/fn&WT.tz=2&WT.bh=13&WT.ul=en-US&WT.cd=24&WT.sr=1920x1080&WT.jo=Yes&WT.ti=CFF%253A%2520Horaire%2520en%2520ligne.&WT.js=Yes&WT.jv=1.5&WT.ct=unknown&WT.bs=1920x505&WT.fv=18.0&WT.slv=Not%2520enabled&WT.le=windows-1252&WT.tv=10.2.10&WT.dl=125&WT.ssl=0&WT.es=fahrplan.sbb.ch%252Fbin%252Fquery.exe%252Ffn&WT.cg_n=fahrplan&WT.cg_s=online-fahrplan&WT.vt_f_tlh=1443179571&WT.vtvs=1443178324003&WT.vtid=fc6cf8b6-163a-4542-bd06-b36cd65f35ce&WT.co_f=fc6cf8b6-163a-4542-bd06-b36cd65f35ce&WT.hm_x=158&WT.hm_y=269&WT.hm_w=1920&WT.hm_h=505&WT.hm_tv=10.2.3&wt_contentlanguage=fr&wt_channel=Desktop&WT.dep=wt_contentlanguage%253Bwt_channel",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Accept",
+              "value": "image/webp,*/*;q=0.8"
+            },
+            {
+              "name": "Connection",
+              "value": "keep-alive"
+            },
+            {
+              "name": "Accept-Encoding",
+              "value": "gzip, deflate, sdch"
+            },
+            {
+              "name": "Referer",
+              "value": "http://fahrplan.sbb.ch/bin/query.exe/fn?"
+            },
+            {
+              "name": "Host",
+              "value": "hm.webtrends.com"
+            },
+            {
+              "name": "Accept-Language",
+              "value": "fr-CH,fr;q=0.8,en;q=0.6"
+            },
+            {
+              "name": "User-Agent",
+              "value": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/44.0.2403.125 Safari/537.36"
+            }
+          ],
+          "queryString": [
+            {
+              "name": "",
+              "value": ""
+            },
+            {
+              "name": "dcsdat",
+              "value": "1443179574269"
+            },
+            {
+              "name": "dcssip",
+              "value": "www.sbb.ch"
+            },
+            {
+              "name": "dcsuri",
+              "value": "/bin/query.exe/fn"
+            },
+            {
+              "name": "WT.tz",
+              "value": "2"
+            },
+            {
+              "name": "WT.bh",
+              "value": "13"
+            },
+            {
+              "name": "WT.ul",
+              "value": "en-US"
+            },
+            {
+              "name": "WT.cd",
+              "value": "24"
+            },
+            {
+              "name": "WT.sr",
+              "value": "1920x1080"
+            },
+            {
+              "name": "WT.jo",
+              "value": "Yes"
+            },
+            {
+              "name": "WT.ti",
+              "value": "CFF%253A%2520Horaire%2520en%2520ligne."
+            },
+            {
+              "name": "WT.js",
+              "value": "Yes"
+            },
+            {
+              "name": "WT.jv",
+              "value": "1.5"
+            },
+            {
+              "name": "WT.ct",
+              "value": "unknown"
+            },
+            {
+              "name": "WT.bs",
+              "value": "1920x505"
+            },
+            {
+              "name": "WT.fv",
+              "value": "18.0"
+            },
+            {
+              "name": "WT.slv",
+              "value": "Not%2520enabled"
+            },
+            {
+              "name": "WT.le",
+              "value": "windows-1252"
+            },
+            {
+              "name": "WT.tv",
+              "value": "10.2.10"
+            },
+            {
+              "name": "WT.dl",
+              "value": "125"
+            },
+            {
+              "name": "WT.ssl",
+              "value": "0"
+            },
+            {
+              "name": "WT.es",
+              "value": "fahrplan.sbb.ch%252Fbin%252Fquery.exe%252Ffn"
+            },
+            {
+              "name": "WT.cg_n",
+              "value": "fahrplan"
+            },
+            {
+              "name": "WT.cg_s",
+              "value": "online-fahrplan"
+            },
+            {
+              "name": "WT.vt_f_tlh",
+              "value": "1443179571"
+            },
+            {
+              "name": "WT.vtvs",
+              "value": "1443178324003"
+            },
+            {
+              "name": "WT.vtid",
+              "value": "fc6cf8b6-163a-4542-bd06-b36cd65f35ce"
+            },
+            {
+              "name": "WT.co_f",
+              "value": "fc6cf8b6-163a-4542-bd06-b36cd65f35ce"
+            },
+            {
+              "name": "WT.hm_x",
+              "value": "158"
+            },
+            {
+              "name": "WT.hm_y",
+              "value": "269"
+            },
+            {
+              "name": "WT.hm_w",
+              "value": "1920"
+            },
+            {
+              "name": "WT.hm_h",
+              "value": "505"
+            },
+            {
+              "name": "WT.hm_tv",
+              "value": "10.2.3"
+            },
+            {
+              "name": "wt_contentlanguage",
+              "value": "fr"
+            },
+            {
+              "name": "wt_channel",
+              "value": "Desktop"
+            },
+            {
+              "name": "WT.dep",
+              "value": "wt_contentlanguage%253Bwt_channel"
+            }
+          ],
+          "cookies": [],
+          "headersSize": 1067,
+          "bodySize": 0
+        },
+        "response": {
+          "status": 200,
+          "statusText": "OK",
+          "httpVersion": "HTTP/1.1",
+          "headers": [
+            {
+              "name": "Pragma",
+              "value": "no-cache"
+            },
+            {
+              "name": "Date",
+              "value": "Fri, 25 Sep 2015 11:12:53 GMT"
+            },
+            {
+              "name": "Server",
+              "value": "Microsoft-IIS/7.5"
+            },
+            {
+              "name": "X-Powered-By",
+              "value": "ASP.NET"
+            },
+            {
+              "name": "P3P",
+              "value": "CP=\"NOI DSP COR NID ADM DEV PSA OUR IND UNI PUR COM NAV INT STA\""
+            },
+            {
+              "name": "Cache-Control",
+              "value": "no-cache"
+            },
+            {
+              "name": "Connection",
+              "value": "close"
+            },
+            {
+              "name": "Content-Type",
+              "value": "image/gif"
+            },
+            {
+              "name": "Content-Length",
+              "value": "67"
+            },
+            {
+              "name": "Expires",
+              "value": "-1"
+            }
+          ],
+          "cookies": [],
+          "content": {
+            "size": 67,
+            "mimeType": "image/gif",
+            "compression": 0
+          },
+          "redirectURL": "",
+          "headersSize": 297,
+          "bodySize": 67,
+          "_transferSize": 364
+        },
+        "cache": {},
+        "timings": {
+          "blocked": 1.04999999894062,
+          "dns": 0.0770000006014,
+          "connect": 21.249000001262182,
+          "send": 0.052999999752501026,
+          "wait": 23.355999997875198,
+          "receive": 0.8640000014565743,
+          "ssl": -1
+        },
+        "connection": "102694",
+        "pageref": "page_27"
       }
     ]
   }
