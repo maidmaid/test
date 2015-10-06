@@ -133,15 +133,19 @@ Le standard de développement de Digital Link pour écrire du HTML respecte le [
 
 Les développements Symfony suivent les [best practices](http://symfony.com/doc/current/best_practices/index.html) Symfony.
 
-### Namespace du bundle applicatif
+### Nom des bundles
 
-> ``namespace Dl\[Project]\AppBundle;``
+> ``Dl\[Project]Bundle\Dl[Project]Bundle``
 
 * ``[Project]`` est le nom du projet en cours et peut être abrégé avec des initiales.
 
 Exemple:
 
-> ``namespace Dl\Tpf\AppBundle;``
+> ``Dl\SdcBundle\DlSdcBundle``
+
+Note: Le bundle applicatif suit les règles standards.
+
+> ``AppBundle\AppBundle`` 
 
 ## Twig
 
