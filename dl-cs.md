@@ -86,6 +86,18 @@ class FooBar
 }
 ```
 
+## Composer
+
+Tous les projets PHP comporte un fichier ``composer.json``. Le vendor utilisé est ``digital-link`` et la licence est de type ``proprietary`` :
+
+```
+{
+    "name": "digital-link/my-project",
+    "license": "proprietary",
+    "type": "project"
+}
+```
+
 ## HTML
 
 Le standard de développement de Digital Link pour écrire du HTML respecte celui de Mark Otto, fondateur du twitter bootstrap : http://codeguide.co/#html
